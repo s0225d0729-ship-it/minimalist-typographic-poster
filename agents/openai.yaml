@@ -1,0 +1,5 @@
+interface:
+  display_name: "极简文字海报"
+  short_description: "用层级、语义编组与多字体模板设计高级黑白文字海报"
+  brand_color: "#1A1A1A"
+  default_prompt: "使用 $minimalist-typographic-poster 从版式模板库选择合适结构，以清晰主次、语义编组、字体角色和受控网格制作一张高级黑白灰文字海报。"
